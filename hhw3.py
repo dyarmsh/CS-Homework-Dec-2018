@@ -1,3 +1,4 @@
+#printing armstrong numbers between 100 and 500
 def armstrong():
      for n in range(100, 501):
          n1 = int(n%10)
