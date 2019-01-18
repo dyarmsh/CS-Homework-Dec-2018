@@ -1,0 +1,15 @@
+#upon entering 'q', the function is terminated:
+cnt = 0 
+add = 0 
+prod = 1 
+
+while True:
+    num = input('Enter a number')
+    if num == 'q': break
+    num = int()
+    add = add + num
+    prod = prod * num
+    cnt += 1
+
+print('Average:', add/cnt)
+print('Product:', prod)
