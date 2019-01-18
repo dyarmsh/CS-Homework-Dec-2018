@@ -1,3 +1,4 @@
+#finding the hcf of 2 given numbers:
 def hcfinder():
     num1 = int(input("enter number"))
     num2 = int(input("enter number"))
@@ -12,6 +13,4 @@ def hcfinder():
 
     print ("the last number displayed is the hcf")
 
-hcfinder()
-            
-
+hcfinder()          
