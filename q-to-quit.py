@@ -1,3 +1,4 @@
+#allowing user input of 'q' to terminate the program:
 add = 0 
 prod = 1
 cnt = 0 
