@@ -1,3 +1,5 @@
+#function for inputting info of 10 students
+#outputs students in grade 10 and number of people in each house
 def stud_database():
     redstud = 0
     blustud = 0
